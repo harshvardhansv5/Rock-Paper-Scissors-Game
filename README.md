@@ -34,7 +34,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/harshvardhansv5/Rock-Paper-Scissors-Game.git
-cd rock-paper-scissors-game
+cd Rock-Paper-Scissors-Game
 ```
 
 ### Sound Files
@@ -51,14 +51,14 @@ You can place these sound files in a folder called `sounds` inside the project d
 To run the game, execute the following command:
 
 ```bash
-python rock_paper_scissors.py
+python Rock-Paper-Scissor.py
 ```
 
 The game will open a window with buttons for Rock, Paper, and Scissors. Click any button to play a round. The game will display the result (win, lose, or tie) along with the updated score. You can reset the game using the "Reset Game" button.
 
 ## Files
 
-- `rock_paper_scissors.py`: The main Python file containing the game logic.
+- `python Rock-Paper-Scissor.py`: The main Python file containing the game logic.
 - `sounds/`: A directory containing the sound files used in the game (e.g., `win.wav`, `lose.wav`, `tie.wav`).
 - `README.md`: This file.
 
