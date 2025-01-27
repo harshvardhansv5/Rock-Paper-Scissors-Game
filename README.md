@@ -33,7 +33,7 @@ pip install pygame
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors-game.git
+git clone https://github.com/harshvardhansv5/Rock-Paper-Scissors-Game.git
 cd rock-paper-scissors-game
 ```
 
